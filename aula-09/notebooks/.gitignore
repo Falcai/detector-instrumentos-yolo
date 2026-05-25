@@ -1,0 +1,14 @@
+
+.venv/
+venv/
+env/
+
+__pycache__/
+
+*.avi
+*.mkv
+*.mp4
+*.zip
+
+runs/
+dataset_instruments/
